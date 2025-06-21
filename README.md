@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Sanskriti 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=F718C2&center=true&vCenter=true&width=600&lines=👩‍💻+Aspiring+Software+Engineer;💻+Full-Stack+Developer;⚛️+React+%26+Node.js+%7C+🌐+HTML+%7C+🎨+CSS;🗃️+SQL+%7C+🐙+GitHub+%7C+🔥+Firebase+%7C+🍃+MongoDB;📚+Learning+Spring+Boot+%7C+DevOps;🌱+SSoC+Contributor+2025;🎯+E-Cell+Core+Member+%7C+💡+Event+Organiser;Dream+Big.+Build+Smart.+Stay+Kind.+🌟" alt="Typing SVG" />
+  <img src="https://vercel.typing-svg.workers.dev/?font=Fira+Code&size=22&duration=4000&pause=1000&color=F718C2&center=true&vCenter=true&width=700&lines=👩‍💻+Aspiring+Software+Engineer;💻+Full-Stack+Developer;⚛️+React+%26+Node.js+%7C+🌐+HTML+%7C+🎨+CSS;🗃️+SQL+%7C+🐙+GitHub+%7C+🔥+Firebase+%7C+🍃+MongoDB;📚+Learning+Spring+Boot+%7C+DevOps;🌱+SSoC+Contributor+2025;🎯+E-Cell+Core+Member+%7C+💡+Event+Organiser;Dream+Big.+Build+Smart.+Stay+Kind.+🌟" alt="Sanskriti Typing SVG" />
 </p>
+
 
 
 
