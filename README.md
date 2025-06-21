@@ -1,8 +1,11 @@
 <h1 align="center">Hi there, I'm Sanskriti 👋</h1>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&lines=Software+Developer;Full-Stack+Engineer;React+%7C+Node.js+Enthusiast;Tech+Club+Core+Member+%7C+Event+Lead" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=👩‍💻+Aspiring+Software+Engineer;💻+Full-Stack+Dev+%7C+React+%2B+Node.js;🌐+HTML+%7C+CSS+%7C+JS+%7C+MongoDB;🔧+Git+%7C+SQL+%7C+GitHub+%7C+Firebase;🚀+Learning+Spring+Boot+%26+DevOps;🌱+SSoC+Contributor+2025+%7C+E-Cell+Member;🎯+Event+Organiser+%7C+Tech+Club+Volunteer;💡+Building+Tech+That+Matters" />
 </p>
+
+
 
 <!--
 **Sanskriti10247/Sanskriti10247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
