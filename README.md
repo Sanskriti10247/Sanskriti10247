@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sanskriti 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=F718C2&center=true&vCenter=true&width=700&lines=💻+Full-Stack+Developer;🌱+Learning+Spring+Boot+and+DevOps;🔧+React+%7C+Node.js+%7C+HTML+%7C+CSS;🗂️+SQL+%7C+GitHub+%7C+Firebase+%7C+MongoDB;🌟+SSoC+Contributor+2025;🎯+E-Cell+Core+Member;💡+Event+Organiser;Dream+Big+Build+Smart+Stay+Kind" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=F718C2&center=true&vCenter=true&width=700&lines=+Full-Stack+Developer;+Learning+Spring+Boot+and+DevOps;🔧+React+%7C+Node.js+%7C+HTML+%7C+CSS;+SQL+%7C+GitHub+%7C+Firebase+%7C+MongoDB;+SSoC+Contributor+2025;+E-Cell+Core+Member;+Event+Organiser;Dream+Big+Build+Smart+Stay+Kind" alt="Typing SVG" />
 </p>
 
 
