@@ -112,9 +112,14 @@
 
 ---
 
+<h2 align="center"> Visitor Count</h2>
+
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sanskriti10247.Sanskriti10247&title=Visitors&color=F718C2&style=flat-square" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sanskriti10247.Sanskriti10247&title=Visitors&color=ff69b4&style=for-the-badge" width="200" height="40" />
 </p>
+
+
+
 
 
 ---
