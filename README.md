@@ -4,6 +4,35 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=F718C2&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;+Full-Stack+Developer;+Learning+Spring+Boot+and+DevOps;+React+%7C+Node.js+%7C+HTML+%7C+CSS;+SQL+%7C+GitHub+%7C+Firebase+%7C+MongoDB;+SSoC+Contributor+2025;+E-Cell+Core+Member;+Event+Organiser;Dream+Big.+Build+Smart.+Stay+Kind." alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanskriti988/"><img src="https://img.shields.io/badge/LinkedIn-%23f733c4.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/sansk_ritiiiiiiii/"><img src="https://img.shields.io/badge/Instagram-%23f733c4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1-jOlslZJwsxiDkgPDL8eabtmCwwQMebA/view?usp=sharing"><img src="https://img.shields.io/badge/My_CV-%23f733c4.svg?&style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
+  <a href="https://medium.com/@kumarisanskriti889"><img src="https://img.shields.io/badge/Medium-%23f733c4.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+---
+
+<h2 align="center">✨ GitHub Highlights</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanskriti10247&show_icons=true&theme=radical&title_color=F718C2&icon_color=F718C2&text_color=ffffff&bg_color=0d1117" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanskriti10247&theme=radical&fire=F718C2&currStreakLabel=F718C2" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanskriti10247&bg_color=0d1117&color=F718C2&line=F718C2&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+<h2 align="center">🚀 My Projects</h2>
+
+
+
+> 
+
+---
 
 <h2 align="center">🛠️ My Tech Stack</h2>
 
@@ -73,11 +102,39 @@
     <td align="center" width="130">
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" title="Seaborn"/><br>Seaborn
     </td>
-<!--     <td align="center" width="130">
-      <a href="https://github.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" />
-      </a>
-      <br>GitHub
-    </td> -->
   </tr>
 </table>
+
+---
+
+<h2 align="center">🌐 Visitor Count</h2>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Sanskriti10247/count.svg" />
+</p>
+
+---
+
+<h2 align="center">💡 Fun Zone</h2>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Joke" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&quoteCategory=programming&color=F718C2" alt="Dev Quote">
+</p>
+
+---
+
+<h2 align="center">⏰ Code Mode Always ON</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
+</p>
+
+---
+
+> 🌸 _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House
+
+---
