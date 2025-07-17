@@ -29,19 +29,71 @@
 <h2 align="center">🚀 My Projects</h2>
 <!--START_PROJECT_SECTION-->
 <!--START_PROJECT_SECTION-->
-## 🚀 My Projects
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=Sanskriti10247&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117)](https://github.com/Sanskriti10247/Sanskriti10247)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=llmware&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117)](https://github.com/Sanskriti10247/llmware)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=Music-player&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117)](https://github.com/Sanskriti10247/Music-player)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=Library-Book-Organiser&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117)](https://github.com/Sanskriti10247/Library-Book-Organiser)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=BRAINTUMORDETECTION&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117)](https://github.com/Sanskriti10247/BRAINTUMORDETECTION)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=GoogleColabworks&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117)](https://github.com/Sanskriti10247/GoogleColabworks)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=ScalerConnect&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117)](https://github.com/Sanskriti10247/ScalerConnect)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=Web-dev-28-Batch-2&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117)](https://github.com/Sanskriti10247/Web-dev-28-Batch-2)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=app-ideas&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117)](https://github.com/Sanskriti10247/app-ideas)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=SST28-Batch-B&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117)](https://github.com/Sanskriti10247/SST28-Batch-B)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Sanskriti10247/Sanskriti10247">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=Sanskriti10247&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Sanskriti10247/llmware">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=llmware&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Sanskriti10247/Music-player">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=Music-player&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Sanskriti10247/Library-Book-Organiser">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=Library-Book-Organiser&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Sanskriti10247/BRAINTUMORDETECTION">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=BRAINTUMORDETECTION&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Sanskriti10247/GoogleColabworks">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=GoogleColabworks&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Sanskriti10247/ScalerConnect">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=ScalerConnect&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Sanskriti10247/Web-dev-28-Batch-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=Web-dev-28-Batch-2&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Sanskriti10247/app-ideas">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=app-ideas&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Sanskriti10247/SST28-Batch-B">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=SST28-Batch-B&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
+      </a>
+    </td>
+  </tr>
+</table>
 <!--END_PROJECT_SECTION-->
 <!--END_PROJECT_SECTION-->
+
 <h2 align="center">🛠️ My Tech Stack</h2>
 
 <!-- Section: Backend & DevOps -->
@@ -115,11 +167,10 @@
 
 ---
 
-<h2 align="center">🌐 Visitor Count</h2>
-
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Sanskriti10247/count.svg" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sanskriti10247.Sanskriti10247&title=Visitors&color=F718C2&style=flat-square" />
 </p>
+
 
 ---
 
