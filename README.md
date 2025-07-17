@@ -27,13 +27,9 @@
 ---
 
 <h2 align="center">🚀 My Projects</h2>
-
-
-
-> 
-
----
-
+<!--START_PROJECT_SECTION-->
+## 🚀 My Projects
+<!--END_PROJECT_SECTION-->
 <h2 align="center">🛠️ My Tech Stack</h2>
 
 <!-- Section: Backend & DevOps -->
