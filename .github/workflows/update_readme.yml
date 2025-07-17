@@ -10,22 +10,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
+      - name: Install jq
+        run: sudo apt-get install jq -y
+
       - name: Generate pinned repos section
         run: |
-          echo "## 🚀 My Projects" > PINS.md
+          echo "<!--START_PROJECT_SECTION-->" > PINS.md
+          echo "## 🚀 My Projects" >> PINS.md
           GH_USER="Sanskriti10247"
           repos=$(curl -s "https://api.github.com/users/$GH_USER/repos?per_page=100&sort=updated" | jq -r '.[] | select(.archived==false) | [.name, .html_url] | @tsv')
           while IFS=$'\t' read -r name url; do
             echo "[![](https://github-readme-stats.vercel.app/api/pin/?username=$GH_USER&repo=$name&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117)]($url)" >> PINS.md
           done <<< "$repos"
+          echo "<!--END_PROJECT_SECTION-->" >> PINS.md
+
       - name: Merge into README
         run: |
-          START=$(grep -n '## 🚀 My Projects' README.md | cut -d: -f1)
-          END=$(grep -n '---' README.md | head -n2 | tail -n1 | cut -d: -f1)
-          head -n $((START-1)) README.md > TEMP.md
-          cat PINS.md >> TEMP.md
-          tail -n +$END README.md >> TEMP.md
+          awk '/<!--START_PROJECT_SECTION-->/ {show=1; print; while (getline < "PINS.md") print; next} /<!--END_PROJECT_SECTION-->/ {show=0} !show' README.md > TEMP.md
           mv TEMP.md README.md
+
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
