@@ -37,6 +37,7 @@
     <img src="https://img.shields.io/badge/View%20My%20Codolio%20Profile-F718C2?style=for-the-badge&logo=codio&logoColor=white" />
   </a>
 </p>
+
 ---
 <h2 align="center">🛠️ My Tech Stack</h2>
 
@@ -186,7 +187,7 @@
 <!--END_PROJECT_SECTION-->
 <!--END_PROJECT_SECTION-->
 
-
+---
 
 <h2 align="center">💡 Fun Zone</h2>
 
@@ -194,13 +195,15 @@
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Joke" />
 </p>
 
+<h2 align="center">💡 Dev Quote</h2>
+
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&quoteCategory=programming&color=F718C2" alt="Dev Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
 </p>
 
 ---
 
-<h2 align="center">Code Mode Always ON</h2>
+<h2 align="center"> 👩‍💻 Code Mode Always ON</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
