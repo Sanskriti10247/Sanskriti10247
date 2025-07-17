@@ -12,19 +12,6 @@
 </p>
 
 ---
-<h2 align="center"> Codolio Tracker</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sanskriti10247/Sanskriti10247/main/assets/profileCard (9).png" width="350" />
-  <img src="https://raw.githubusercontent.com/Sanskriti10247/Sanskriti10247/main/assets/devCard (2).png" width="350" />
-</p>
-
-<p align="center">
-  <a href="https://codolio.com/profile/Sanskriti988" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Codolio%20Profile-F718C2?style=for-the-badge&logo=codio&logoColor=white" />
-  </a>
-</p>
----
 
 <h2 align="center">✨ GitHub Highlights</h2>
 
@@ -37,6 +24,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanskriti10247&bg_color=0d1117&color=F718C2&line=F718C2&point=ffffff&area=true&hide_border=true"/>
 </p>
 
+---
+<h2 align="center"> Codolio Tracker</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanskriti10247/Sanskriti10247/main/assets/profileCard (9).png" width="350" />
+  <img src="https://raw.githubusercontent.com/Sanskriti10247/Sanskriti10247/main/assets/devCard (2).png" width="350" />
+</p>
+
+<p align="center">
+  <a href="https://codolio.com/profile/Sanskriti988" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Codolio%20Profile-F718C2?style=for-the-badge&logo=codio&logoColor=white" />
+  </a>
+</p>
 ---
 <h2 align="center">🛠️ My Tech Stack</h2>
 
