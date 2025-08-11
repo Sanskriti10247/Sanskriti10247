@@ -13,7 +13,7 @@
 
 ---
 
-<h2 align="center">✨ GitHub Highlights</h2>
+<h2 align="center">✨GitHub Highlights</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanskriti10247&show_icons=true&theme=radical&title_color=F718C2&icon_color=F718C2&text_color=ffffff&bg_color=0d1117" height="170"/>
@@ -25,7 +25,7 @@
 </p>
 
 ---
-<h2 align="center"> Codolio Tracker</h2>
+<h2 align="center"> Codolio Tracker </h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sanskriti10247/Sanskriti10247/main/assets/profileCard (9).png" width="350" />
@@ -39,7 +39,7 @@
 </p>
 
 ---
-<h2 align="center">🛠️ My Tech Stack</h2>
+<h2 align="center">🛠️ My Tech Stack </h2>
 
 <!-- Section: Backend & DevOps -->
 <h4>🛠️ Backend & DevOps</h4>
@@ -117,8 +117,6 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Sanskriti10247.Sanskriti10247&title=Visitors&color=ff69b4&style=for-the-badge" width="200" height="40" />
 </p>
-
-
 
 
 
