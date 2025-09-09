@@ -127,18 +127,18 @@
 <div align="center">
 
   <!-- Project 1 -->
-  <a href="https://github.com/Sanskriti10247/ScalerConnect" target="_blank">
-    <img align="center" width="420" style="margin:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=ScalerConnect&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
+  <a href="https://github.com/Sanskriti10247/Sanskriti-Portfolio" target="_blank">
+    <img align="center" width="420" style="margin:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=Sanskriti-Portfolio&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
   </a>
 
   <!-- Project 2 -->
-  <a href="https://github.com/Sanskriti10247/BRAINTUMORDETECTION" target="_blank">
-    <img align="center" width="420" style="margin:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=BRAINTUMORDETECTION&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
+ <a href="https://github.com/Sanskriti10247/ScalerConnect" target="_blank">
+    <img align="center" width="420" style="margin:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=ScalerConnect&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
   </a>
 
   <!-- Project 3 -->
-  <a href="https://github.com/Sanskriti10247/Music-player" target="_blank">
-    <img align="center" width="420" style="margin:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=Music-player&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
+   <a href="https://github.com/Sanskriti10247/BRAINTUMORDETECTION" target="_blank">
+    <img align="center" width="420" style="margin:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=BRAINTUMORDETECTION&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
   </a>
 
   <!-- Project 4 -->
@@ -147,13 +147,8 @@
   </a>
 
   <!-- Project 5 -->
-  <a href="https://github.com/Sanskriti10247/llmware" target="_blank">
-    <img align="center" width="420" style="margin:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=llmware&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
-  </a>
-
-  <!-- Project 6 -->
-  <a href="https://github.com/Sanskriti10247/Web-dev-28-Batch-2" target="_blank">
-    <img align="center" width="420" style="margin:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=Web-dev-28-Batch-2&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
+  <a href="https://github.com/Sanskriti10247/Music-player" target="_blank">
+    <img align="center" width="420" style="margin:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=Music-player&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
   </a>
 
 </div>
