@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sanskriti988/"><img src="https://img.shields.io/badge/LinkedIn-%23f733c4.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/sansk_ritiiiiiiii/"><img src="https://img.shields.io/badge/Instagram-%23f733c4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1-jOlslZJwsxiDkgPDL8eabtmCwwQMebA/view?usp=sharing"><img src="https://img.shields.io/badge/My_CV-%23f733c4.svg?&style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1CVH_mIy-TbKShb3CY-htuQwE4oYDOm5-/view?usp=sharing"><img src="https://img.shields.io/badge/My_CV-%23f733c4.svg?&style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
   <a href="https://medium.com/@kumarisanskriti889"><img src="https://img.shields.io/badge/Medium-%23f733c4.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
