@@ -15,10 +15,10 @@
 
 <h2 align="center">✨GitHub Highlights</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanskriti10247&show_icons=true&theme=radical&title_color=F718C2&icon_color=F718C2&text_color=ffffff&bg_color=0d1117" height="170"/>
+ <p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Sanskriti10247&show_icons=true&theme=radical&title_color=F718C2&icon_color=F718C2&text_color=ffffff&bg_color=0d1117" height="170"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanskriti10247&theme=radical&fire=F718C2&currStreakLabel=F718C2" height="170"/>
-</p>
+</p> 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanskriti10247&bg_color=0d1117&color=F718C2&line=F718C2&point=ffffff&area=true&hide_border=true"/>
@@ -42,7 +42,7 @@
 <h2 align="center">🛠️ My Tech Stack </h2>
 
 <!-- Section: Backend & DevOps -->
-<h4>🛠️ Backend & DevOps</h4>
+<h4> Backend & DevOps</h4>
 <table align="center">
   <tr>
     <td align="center" width="130">
@@ -67,7 +67,7 @@
 </table>
 
 <!-- Section: Frontend -->
-<h4>🎨 Frontend</h4>
+<h4> Frontend</h4>
 <table align="center">
   <tr>
     <td align="center" width="130">
@@ -86,7 +86,7 @@
 </table>
 
 <!-- Section: Languages & Tools -->
-<h4>🧠 Languages, Tools & Platforms</h4>
+<h4> Languages, Tools & Platforms</h4>
 <table align="center">
   <tr>
     <td align="center" width="130">
@@ -122,36 +122,17 @@
 
 ---
 
-<h2 align="center">📂 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanskriti10247&theme=radical" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanskriti10247&theme=radical" height="180" />
+</p>
 
-  <!-- Project 1 -->
-  <a href="https://github.com/Sanskriti10247/Sanskriti-Portfolio" target="_blank">
-    <img align="center" width="420" style="margin:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=Sanskriti-Portfolio&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanskriti10247&theme=radical" height="200" />
+</p>
 
-  <!-- Project 2 -->
- <a href="https://github.com/Sanskriti10247/ScalerConnect" target="_blank">
-    <img align="center" width="420" style="margin:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=ScalerConnect&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
-  </a>
-
-  <!-- Project 3 -->
-   <a href="https://github.com/Sanskriti10247/BRAINTUMORDETECTION" target="_blank">
-    <img align="center" width="420" style="margin:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=BRAINTUMORDETECTION&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
-  </a>
-
-  <!-- Project 4 -->
-  <a href="https://github.com/Sanskriti10247/Library-Book-Organiser" target="_blank">
-    <img align="center" width="420" style="margin:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=Library-Book-Organiser&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
-  </a>
-
-  <!-- Project 5 -->
-  <a href="https://github.com/Sanskriti10247/Music-player" target="_blank">
-    <img align="center" width="420" style="margin:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanskriti10247&repo=Music-player&theme=radical&title_color=F718C2&text_color=ffffff&bg_color=0d1117" />
-  </a>
-
-</div>
 
 <br />
 
