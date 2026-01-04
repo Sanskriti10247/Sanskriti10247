@@ -28,8 +28,8 @@
 <h2 align="center"> Codolio Tracker </h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sanskriti10247/Sanskriti10247/main/assets/profileCard (9).png" width="350" />
-  <img src="https://raw.githubusercontent.com/Sanskriti10247/Sanskriti10247/main/assets/devCard (2).png" width="350" />
+  <img src="https://raw.githubusercontent.com/Sanskriti10247/Sanskriti10247/main/assets/profileCard (11).png" width="350" />
+  <img src="https://raw.githubusercontent.com/Sanskriti10247/Sanskriti10247/main/assets/devCard (4).png" width="350" />
 </p>
 
 <p align="center">
