@@ -12,11 +12,17 @@
 <a href="https://medium.com/@kumarisanskriti889"><img src="https://img.shields.io/badge/MEDIUM-FF1493?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 <a href="https://www.instagram.com/sansk_ritiiiiiiii/"><img src="https://img.shields.io/badge/INSTAGRAM-FF1493?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-### A Little About Me
-
-I’m a curious Computer Science student who loves figuring out how things work and turning ideas into useful software. I enjoy building across the stack, exploring AI/ML and computer vision, and learning the systems behind the code. I’m always up for a new challenge, a tricky bug, or a chance to learn something different—and I bring a little creativity and pink to everything I build. 💗
-
-
+<table align="center">
+  <tr>
+    <td width="72%" valign="middle">
+      <h3>🌷 A Little About Me</h3>
+      <p>I’m a curious Computer Science student who loves figuring out how things work and turning ideas into useful software. I enjoy building across the stack, exploring AI/ML and computer vision, and learning the systems behind the code. I’m always up for a new challenge, a tricky bug, or a chance to learn something different—and I bring a little creativity and pink to everything I build. 💗</p>
+    </td>
+    <td width="28%" align="center" valign="middle">
+      <img src="./assets/download%20%281%29.svg" width="190" alt="Cute sticker"/>
+    </td>
+  </tr>
+</table>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanskriti10247&theme=radical" width="49%" alt="Pink GitHub repository stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskriti10247&theme=radical&background=160011&border=FF1493&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493&sideLabels=FF69B4&dates=FFE6F4" height="165" alt="Pink GitHub contribution streak"/>
