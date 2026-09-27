@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" role="img" aria-label="Cute pink-bow kitty sticker">
+  <!-- Floating hearts and sparkles -->
+  <path d="M47 133c-10-7-17 8 0 19 17-11 10-26 0-19Z" fill="#F6C4D2" stroke="#D66F92" stroke-width="3"></path>
+  <path d="M276 204c-9-6-15 7 0 17 15-10 9-23 0-17Z" fill="#F6C4D2" stroke="#D66F92" stroke-width="3"></path>
+  <path d="m264 92 4 9 9 4-9 4-4 9-4-9-9-4 9-4Z" fill="#F2D38A"></path>
+  <path d="m55 223 3 7 7 3-7 3-3 7-3-7-7-3 7-3Z" fill="#F2D38A"></path>
+
+  <!-- White sticker outline -->
+  <path d="M94 100 76 54q-2-7 5-3l47 31q32-13 64 0l47-31q7-4 5 3l-18 46q31 25 31 70c0 57-41 94-97 94s-97-37-97-94q0-45 31-70Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="18" stroke-linejoin="round"></path>
+
+  <!-- Kitty face -->
+  <path d="M94 100 76 54q-2-7 5-3l47 31q32-13 64 0l47-31q7-4 5 3l-18 46q31 25 31 70c0 57-41 94-97 94s-97-37-97-94q0-45 31-70Z" fill="#FFFDFE" stroke="#A84F6C" stroke-width="6" stroke-linejoin="round"></path>
+
+  <!-- Inner ears -->
+  <path d="m91 91-8-27 28 20q-11 1-20 7Z" fill="#F6C4D2"></path>
+  <path d="m229 91 8-27-28 20q11 1 20 7Z" fill="#F6C4D2"></path>
+
+  <!-- Pink bow -->
+  <path d="M211 76c-22-21-38-8-27 8-11 16 5 29 27 8 22 21 38 8 27-8 11-16-5-29-27-8Z" fill="#E98EAA" stroke="#A84F6C" stroke-width="4" stroke-linejoin="round"></path>
+  <circle cx="211" cy="84" r="8" fill="#F6C4D2" stroke="#A84F6C" stroke-width="3"></circle>
+
+  <!-- Face -->
+  <ellipse cx="124" cy="158" rx="6" ry="10" fill="#654752"></ellipse>
+  <ellipse cx="196" cy="158" rx="6" ry="10" fill="#654752"></ellipse>
+  <ellipse cx="160" cy="177" rx="7" ry="5" fill="#E98EAA"></ellipse>
+  <path d="M160 182q-2 12-13 12m13-12q2 12 13 12" fill="none" stroke="#654752" stroke-width="3" stroke-linecap="round"></path>
+
+  <!-- Rosy cheeks -->
+  <ellipse cx="104" cy="179" rx="14" ry="7" fill="#F4B2C4" opacity=".8"></ellipse>
+  <ellipse cx="216" cy="179" rx="14" ry="7" fill="#F4B2C4" opacity=".8"></ellipse>
+
+  <!-- Whiskers -->
+  <path d="m91 164-24-5m24 15-25 3m163-13 24-5m-24 15 25 3" fill="none" stroke="#A84F6C" stroke-width="3" stroke-linecap="round"></path>
+
+  <!-- Tiny flower sticker -->
+  <g transform="translate(73 235)">
+    <circle cx="0" cy="-7" r="6" fill="#F2A9BE"></circle>
+    <circle cx="7" cy="0" r="6" fill="#F2A9BE"></circle>
+    <circle cx="0" cy="7" r="6" fill="#F2A9BE"></circle>
+    <circle cx="-7" cy="0" r="6" fill="#F2A9BE"></circle>
+    <circle cx="0" cy="0" r="4" fill="#F2D38A"></circle>
+  </g>
+</svg>
