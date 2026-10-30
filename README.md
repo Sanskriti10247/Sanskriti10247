@@ -8,7 +8,7 @@
 
 <a href="https://github.com/Sanskriti10247"><img src="https://img.shields.io/badge/GITHUB-FF1493?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/sanskriti988/"><img src="https://img.shields.io/badge/LINKEDIN-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://drive.google.com/file/d/1CVH_mIy-TbKShb3CY-htuQwE4oYDOm5-/view?usp=sharing"><img src="https://img.shields.io/badge/RESUME-FF1493?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
+<a href="https://drive.google.com/file/d/1LbscXJZJyU6aq6P6LX6lgOjZwS8tPEWH/view?usp=drive_link"><img src="https://img.shields.io/badge/RESUME-FF1493?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
 <a href="https://medium.com/@kumarisanskriti889"><img src="https://img.shields.io/badge/MEDIUM-FF1493?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 <a href="https://www.instagram.com/sansk_ritiiiiiiii/"><img src="https://img.shields.io/badge/INSTAGRAM-FF1493?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
